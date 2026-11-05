@@ -3,7 +3,7 @@ window.DRINKS = [
   {
     "name": "Sakura Blossom",
     "category": "cocktails",
-    "image": "images/sakura-blossom.png",
+    "image": "images/sakura-blossom.JPG",
     "steps": [
       "Pour ½ shot cherry syrup into the glass.",
       "Fill the glass with crushed ice.",
@@ -16,7 +16,7 @@ window.DRINKS = [
   {
     "name": "Passion Fruit Martini",
     "category": "cocktails",
-    "image": "images/passion-fruit-martini.png",
+    "image": "images/passion-fruit-martini.JPG",
     "steps": [
       "Add 1 shot vanilla vodka, ½ shot lemon juice, 1 shot passion fruit liqueur and 1 shot passion fruit purée to the shaker.",
       "Dry shake without ice.",
@@ -29,7 +29,7 @@ window.DRINKS = [
   {
     "name": "Lychee Mojito",
     "category": "cocktails",
-    "image": "images/lychee-mojito.png",
+    "image": "images/lychee-mojito.JPG",
     "steps": [
       "Add 2 lychees, 10 mint leaves and a wedge of lime.",
       "Add 2 shots Bacardi, 1 shot lemon juice and 1 shot lychee syrup.",
@@ -42,7 +42,7 @@ window.DRINKS = [
   {
     "name": "Amaretto Sour",
     "category": "cocktails",
-    "image": "images/amaretto-sour.png",
+    "image": "images/amaretto-sour.JPG",
     "steps": [
       "Add ice to the shaker.",
       "Add 2 shots orange juice, 2 shots Amaretto, 1 shot lemon juice and ½ shot orgeat.",
@@ -55,7 +55,7 @@ window.DRINKS = [
   {
     "name": "Mai Tai",
     "category": "cocktails",
-    "image": "images/mai-tai.png",
+    "image": "images/mai-tai.JPG",
     "steps": [
       "Fill the glass with crushed ice.",
       "Add 2 shots Captain Morgan, a lime wedge, 1 shot lemon juice and 1 shot orgeat to the shaker.",
@@ -68,7 +68,7 @@ window.DRINKS = [
   {
     "name": "Yuzu Confusion",
     "category": "cocktails",
-    "image": "images/yuzu-confusion.png",
+    "image": "images/yuzu-confusion.JPG",
     "steps": [
       "Blend crushed ice with 2 shots yuzu purée, 1 shot gin and 1 shot Cointreau.",
       "Pour into the glass.",
@@ -80,7 +80,7 @@ window.DRINKS = [
   {
     "name": "Godzilla",
     "category": "cocktails",
-    "image": "images/godzilla.png",
+    "image": "images/godzilla.JPG",
     "steps": [
       "Add 2 shots whisky, 1 shot vodka, 1 shot ginger syrup and 4 shots apple juice to the shaker.",
       "Shake with ice.",
@@ -92,7 +92,7 @@ window.DRINKS = [
   {
     "name": "Momoko",
     "category": "cocktails",
-    "image": "images/momoko.png",
+    "image": "images/momoko.JPG",
     "steps": [
       "Add 1 shot tequila, 2 shots Archers, 1 shot lemon juice and 1 shot sugar syrup to the blender.",
       "Add 2 slices of peach and ice.",
@@ -104,7 +104,7 @@ window.DRINKS = [
   {
     "name": "Okinawa Dream",
     "category": "cocktails",
-    "image": "images/okinawa-dream.png",
+    "image": "images/okinawa-dream.JPG",
     "steps": [
       "Add 1 shot spiced rum, 1 shot Bacardi, 1 pineapple ring, 1 shot pineapple juice and 1 shot coconut syrup to the blender.",
       "Add a dash of grenadine.",
@@ -116,7 +116,7 @@ window.DRINKS = [
   {
     "name": "Ponyo",
     "category": "cocktails",
-    "image": "images/ponyo.png",
+    "image": "images/ponyo.JPG",
     "steps": [
       "Add 1 shot Bacardi, 1 shot Cointreau, 1 shot lemon juice and 1 shot yuzu purée to the shaker.",
       "Add 2 shots cranberry juice.",
@@ -140,7 +140,7 @@ window.DRINKS = [
   {
     "name": "Lychee St Clement",
     "category": "mocktails",
-    "image": "images/lychee-st-clement.png",
+    "image": "images/lychee-st-clement.JPG",
     "steps": [
       "Add 4 lychees, 75 ml lychee juice, 1 shot lychee syrup and 1 shot lemon juice.",
       "Add 1 bottle of bitter lemon.",
@@ -153,7 +153,7 @@ window.DRINKS = [
   {
     "name": "Matcha Shake",
     "category": "mocktails",
-    "image": "images/matcha-shake.png",
+    "image": "images/matcha-shake.JPG",
     "steps": [
       "Add 2 scoops of green tea ice cream.",
       "Add milk.",
@@ -165,7 +165,7 @@ window.DRINKS = [
   {
     "name": "Mt. Fuji",
     "category": "mocktails",
-    "image": "images/mt-fuji.png",
+    "image": "images/mt-fuji.JPG",
     "steps": [
       ""
     ],
@@ -174,7 +174,7 @@ window.DRINKS = [
   {
     "name": "Summer Breeze",
     "category": "mocktails",
-    "image": "images/summer-breeze.png",
+    "image": "images/summer-breeze.JPG",
     "steps": [
       "Add crushed ice to the glass.",
       "Add cranberry juice, lemon juice and ½ shot cherry syrup.",
@@ -187,7 +187,7 @@ window.DRINKS = [
   {
     "name": "Virgin Strawberry Mojito",
     "category": "mocktails",
-    "image": "images/virgin-strawberry-mojito.png",
+    "image": "images/virgin-strawberry-mojito.JPG",
     "steps": [
       "Add mint leaves, chopped strawberries and a lime wedge to the glass.",
       "Add 2 shots strawberry syrup and 1 shot lemon juice.",
@@ -200,7 +200,7 @@ window.DRINKS = [
   {
     "name": "Coco Chacha",
     "category": "mocktails",
-    "image": "images/coco-chacha.png",
+    "image": "images/coco-chacha.JPG",
     "steps": [
       "Add crushed ice and iced green tea.",
       "Add coconut syrup and a dash of evaporated milk.",
@@ -212,7 +212,7 @@ window.DRINKS = [
   {
     "name": "Tokyo Sunshine",
     "category": "mocktails",
-    "image": "images/tokyo-sunshine.png",
+    "image": "images/tokyo-sunshine.JPG",
     "steps": [
       "Add 2 slices of peach and 1 pineapple ring.",
       "Add 2 double measures of passion fruit juice.",
