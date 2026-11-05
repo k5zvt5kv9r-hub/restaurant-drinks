@@ -3,7 +3,7 @@ window.DRINKS = [
   {
     "name": "Sakura Blossom",
     "category": "cocktails",
-    "image": "images/sakura-blossom.svg",
+    "image": "images/sakura-blossom.png",
     "steps": [
       "Pour ½ shot cherry syrup into the glass.",
       "Fill the glass with crushed ice.",
