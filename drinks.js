@@ -166,7 +166,9 @@ window.DRINKS = [
     "name": "Mt. Fuji",
     "category": "mocktails",
     "image": "images/mt--fuji.svg",
-    "steps": [],
+    "steps": [
+      ""
+    ],
     "note": "Recipe instructions to be added."
   },
   {
