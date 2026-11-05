@@ -80,7 +80,7 @@ window.DRINKS = [
   {
     "name": "Godzilla",
     "category": "cocktails",
-    "image": "images/godzilla.svg",
+    "image": "images/godzilla.png",
     "steps": [
       "Add 2 shots whisky, 1 shot vodka, 1 shot ginger syrup and 4 shots apple juice to the shaker.",
       "Shake with ice.",
@@ -92,7 +92,7 @@ window.DRINKS = [
   {
     "name": "Momoko",
     "category": "cocktails",
-    "image": "images/momoko.svg",
+    "image": "images/momoko.png",
     "steps": [
       "Add 1 shot tequila, 2 shots Archers, 1 shot lemon juice and 1 shot sugar syrup to the blender.",
       "Add 2 slices of peach and ice.",
@@ -104,7 +104,7 @@ window.DRINKS = [
   {
     "name": "Okinawa Dream",
     "category": "cocktails",
-    "image": "images/okinawa-dream.svg",
+    "image": "images/okinawa-dream.png",
     "steps": [
       "Add 1 shot spiced rum, 1 shot Bacardi, 1 pineapple ring, 1 shot pineapple juice and 1 shot coconut syrup to the blender.",
       "Add a dash of grenadine.",
@@ -116,7 +116,7 @@ window.DRINKS = [
   {
     "name": "Ponyo",
     "category": "cocktails",
-    "image": "images/ponyo.svg",
+    "image": "images/ponyo.png",
     "steps": [
       "Add 1 shot Bacardi, 1 shot Cointreau, 1 shot lemon juice and 1 shot yuzu purée to the shaker.",
       "Add 2 shots cranberry juice.",
@@ -165,7 +165,7 @@ window.DRINKS = [
   {
     "name": "Mt. Fuji",
     "category": "mocktails",
-    "image": "images/mt--fuji.svg",
+    "image": "images/mt-fuji.png",
     "steps": [
       ""
     ],
@@ -200,7 +200,7 @@ window.DRINKS = [
   {
     "name": "Coco Chacha",
     "category": "mocktails",
-    "image": "images/coco-chacha.svg",
+    "image": "images/coco-chacha.png",
     "steps": [
       "Add crushed ice and iced green tea.",
       "Add coconut syrup and a dash of evaporated milk.",
@@ -212,7 +212,7 @@ window.DRINKS = [
   {
     "name": "Tokyo Sunshine",
     "category": "mocktails",
-    "image": "images/tokyo-sunshine.svg",
+    "image": "images/tokyo-sunshine.png",
     "steps": [
       "Add 2 slices of peach and 1 pineapple ring.",
       "Add 2 double measures of passion fruit juice.",
