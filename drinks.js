@@ -16,7 +16,7 @@ window.DRINKS = [
   {
     "name": "Passion Fruit Martini",
     "category": "cocktails",
-    "image": "images/passion-fruit-martini.svg",
+    "image": "images/passion-fruit-martini.png",
     "steps": [
       "Add 1 shot vanilla vodka, ½ shot lemon juice, 1 shot passion fruit liqueur and 1 shot passion fruit purée to the shaker.",
       "Dry shake without ice.",
@@ -29,7 +29,7 @@ window.DRINKS = [
   {
     "name": "Lychee Mojito",
     "category": "cocktails",
-    "image": "images/lychee-mojito.svg",
+    "image": "images/lychee-mojito.png",
     "steps": [
       "Add 2 lychees, 10 mint leaves and a wedge of lime.",
       "Add 2 shots Bacardi, 1 shot lemon juice and 1 shot lychee syrup.",
@@ -42,7 +42,7 @@ window.DRINKS = [
   {
     "name": "Amaretto Sour",
     "category": "cocktails",
-    "image": "images/amaretto-sour.svg",
+    "image": "images/amaretto-sour.png",
     "steps": [
       "Add ice to the shaker.",
       "Add 2 shots orange juice, 2 shots Amaretto, 1 shot lemon juice and ½ shot orgeat.",
@@ -55,7 +55,7 @@ window.DRINKS = [
   {
     "name": "Mai Tai",
     "category": "cocktails",
-    "image": "images/mai-tai.svg",
+    "image": "images/mai-tai.png",
     "steps": [
       "Fill the glass with crushed ice.",
       "Add 2 shots Captain Morgan, a lime wedge, 1 shot lemon juice and 1 shot orgeat to the shaker.",
@@ -68,7 +68,7 @@ window.DRINKS = [
   {
     "name": "Yuzu Confusion",
     "category": "cocktails",
-    "image": "images/yuzu-confusion.svg",
+    "image": "images/yuzu-confusion.png",
     "steps": [
       "Blend crushed ice with 2 shots yuzu purée, 1 shot gin and 1 shot Cointreau.",
       "Pour into the glass.",
@@ -140,7 +140,7 @@ window.DRINKS = [
   {
     "name": "Lychee St Clement",
     "category": "mocktails",
-    "image": "images/lychee-st-clement.svg",
+    "image": "images/lychee-st-clement.png",
     "steps": [
       "Add 4 lychees, 75 ml lychee juice, 1 shot lychee syrup and 1 shot lemon juice.",
       "Add 1 bottle of bitter lemon.",
@@ -153,7 +153,7 @@ window.DRINKS = [
   {
     "name": "Matcha Shake",
     "category": "mocktails",
-    "image": "images/matcha-shake.svg",
+    "image": "images/matcha-shake.png",
     "steps": [
       "Add 2 scoops of green tea ice cream.",
       "Add milk.",
@@ -174,7 +174,7 @@ window.DRINKS = [
   {
     "name": "Summer Breeze",
     "category": "mocktails",
-    "image": "images/summer-breeze.svg",
+    "image": "images/summer-breeze.png",
     "steps": [
       "Add crushed ice to the glass.",
       "Add cranberry juice, lemon juice and ½ shot cherry syrup.",
@@ -187,7 +187,7 @@ window.DRINKS = [
   {
     "name": "Virgin Strawberry Mojito",
     "category": "mocktails",
-    "image": "images/virgin-strawberry-mojito.svg",
+    "image": "images/virgin-strawberry-mojito.png",
     "steps": [
       "Add mint leaves, chopped strawberries and a lime wedge to the glass.",
       "Add 2 shots strawberry syrup and 1 shot lemon juice.",
