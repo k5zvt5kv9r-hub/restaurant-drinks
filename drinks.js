@@ -128,7 +128,7 @@ window.DRINKS = [
   {
     "name": "Mango Passion",
     "category": "mocktails",
-    "image": "images/mango-passion.svg",
+    "image": "images/IMG_3363.jpeg",
     "steps": [
       "Add 5 spoons of mango purée.",
       "Add mango juice and 2 shots passion fruit syrup.",
